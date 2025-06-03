@@ -44,6 +44,7 @@ The process of setting up pfSense in VMware with a Windows device as the client 
 
 13. **Check System Status**: Log in to the pfSense WebConfigurator and review the dashboard to confirm system information, interface statuses (e.g., WAN: 192.168.23.132, LAN: 192.168.1.1), and uptime.  
     ![Screenshot 2025-06-03 023431](https://github.com/user-attachments/assets/8cef748b-0c1b-4338-a885-27e8d203fd7a)
+    
 
 14.Customize and Understand the pfSense Dashboard:
 System Info: Shows the system’s name (e.g., "pfSense home.arpa"), user (e.g., "admin@192.168.1.10"), version (e.g., 2.7.2-RELEASE), and uptime (e.g., 1 hour, 23 minutes). It also lists the CPU and DNS servers, helping you confirm the system is running correctly.
@@ -54,7 +55,3 @@ Disks: Shows storage usage (e.g., 6% of 16GB used) to manage space.
 Packages: Lists installed tools (e.g., arpwatch 0.2.1) for managing extra features.
 Customization: Add widgets (via the "+" button) to monitor specific details like traffic or logs, making it easier to focus on what matters.
 ![Screenshot 2025-06-03 031709](https://github.com/user-attachments/assets/18d138b8-d5dd-4175-a3b5-e835f9eeba66)
-
-
-
-This guide provides a comprehensive sequence for setting up pfSense in a VMware environment, with specific steps aligned to the provided images for clarity and documentation.
