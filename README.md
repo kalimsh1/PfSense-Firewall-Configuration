@@ -46,6 +46,8 @@ The process of setting up pfSense in VMware with a Windows device as the client 
     
 
 14.Customize and Understand the pfSense Dashboard:
+
+
 System Info: Shows the systems name (pfSense home.arpa), user (admin@192.168.1.10), version (2.7.2-RELEASE), and uptime. It also lists the CPU and DNS servers, helping you confirm the system is running correctly.
 
 
